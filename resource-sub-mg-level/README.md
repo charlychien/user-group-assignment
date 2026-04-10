@@ -1,4 +1,4 @@
-# get-iam-get assignment.sh
+# get-account.sh
 
 Exports Azure role assignments from all subscriptions visible to your signed-in account into a single CSV file.
 
